@@ -1,2 +1,2 @@
 # Analysis-of-Spotify-Data
-The dashboard is an interactive user-friendly application to analyze the Spotify data.
+The project work focuses on developing a web-based application using python dash package. The analysis involves usage of Spotify data containing top 100 songs for the year 1921 to 2020. The application has numerous tabs which helps the user to navigate from low level to high level interpretation of the dataset. The popularity of the song in the initial years turned out to be less due to the less interactions with users but over the year the popularity has increased based on the aesthetics of the song. The dashboard is an interactive user-friendly application to analyze the Spotify data.
