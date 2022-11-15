@@ -1,0 +1,3 @@
+Project_RM.py - Python script of entire project code. Run the file on pycharm
+
+data.csv - Dataset for the project
